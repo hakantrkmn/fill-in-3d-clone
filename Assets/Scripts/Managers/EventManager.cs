@@ -44,6 +44,9 @@ public static class EventManager
     #endregion
 
  
+    public static Action<int> SetCubeCount;
+    public static Action CubePlacedToArt;
 
+    
 
 }
